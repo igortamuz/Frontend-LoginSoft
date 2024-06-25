@@ -17,7 +17,7 @@
 
 ## 🚀 Executando o projeto
 
-Este projeto que está tendo acesso é tem apenas uma parte, seu cadastro é por 'Local Storage':
+Este projeto que está tendo acesso tem apenas uma parte, seu cadastro é por 'Local Storage':
 
 ### Pré-requisitos
 
@@ -25,8 +25,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/)
-
-### Primeiro Passo
 
 #### 🧭 Front-end
 
