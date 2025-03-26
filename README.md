@@ -1,6 +1,6 @@
 ## 📊 Login Soft
 
-- Deploy: https://bellosoft-login-deploy.vercel.app 
+- Deploy: https://tamuzeus-login-deploy.vercel.app 
    - Front-End: Vercel
    - Back-End: Render
    - Banco de Dados: MongoDB - MongoDB Atlas
